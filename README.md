@@ -8,8 +8,4 @@ Queue Management System</h1>
 <img height="300" src="https://i.ibb.co/9pYty0C/Screenshot-22.png"/>
 <img height="300" src="https://i.ibb.co/kxgF9sB/Screenshot-23.png"/>
 <img height="300" src="https://i.ibb.co/4PTRR1f/Screenshot-24.png"/>
-
 </div>
-<h2 align="center">
-  <a href="https://crud-backend-eth.herokuapp.com/create">[LIVE APP]</a>
-</h2>
